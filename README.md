@@ -7,9 +7,11 @@ In summary, I used Symphony to map Tabula muris data ("Muscle" and "Bladder") on
 
 ### Summary:
 #### Tabula Muris - Limb Mucsle:
+![Plot](https://user-images.githubusercontent.com/20444993/145043714-b338663e-dbc9-4989-906f-70744dc349b4.png)
 
 
 #### Tabula Muris - Bladder:
+![bladder_plot](https://user-images.githubusercontent.com/20444993/145043781-c49e934f-4945-4afe-942b-bc23c6c22be5.png)
 
 
 ## Step 1: Made symphony-compatible reference

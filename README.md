@@ -3,6 +3,7 @@
 In summary, I used Symphony to map Tabula muris data ("Muscle" and "Bladder") on to scMuscle_Mckellar_Cosgrove atlas (integrated with Harmony).
 
 ### To jump to the results directly: run notebook @ scripts/TM_MapQuery_Plots.ipynb
+##### paths in the notebook will have to be adjusted
 
 ### Summary:
 #### Tabula Muris - Limb Mucsle:
@@ -56,3 +57,4 @@ Predicted cell types
 ## Step 3: Visualize results
 
 Run scripts/TM_MapQuery_Plots.ipynb
+##### Note: paths in the notebook will have to be adjusted
